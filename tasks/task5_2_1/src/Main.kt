@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
     val x = circleArea(radius)
     val y = circlePerimeter(radius)
 
-    printf("Area of the circle: %.4f", x)
+    printf("Area of the circle: %.4f\n", x)
     printf("Perimeter of the circle: %.4f\n", y)
 }
